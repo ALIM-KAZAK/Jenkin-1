@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Smoke">
+    <classes>
+      <class name="StepDefinitions.Hooks"/>
+      <class name="StepDefinitions.TechBro_Starbucks_Invalid_Login_117"/>
+      <class name="StepDefinitions.TechBro_Starbucks_Title_Verification_120"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
